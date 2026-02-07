@@ -1,0 +1,5 @@
+{
+  "name": "AI Talent Scout Pro",
+  "description": "A high-performance recruitment tool that parses hundreds of PDF resumes, analyzes them against job requirements using Gemini AI, and ranks the top candidates with detailed reasoning.",
+  "requestFramePermissions": []
+}
